@@ -1,13 +1,12 @@
-# 🧑‍💻 AI-Native Projects Portfolio  
 
-## ⚠️ Note on Code Access  
+## ⚠ Note on Code Access  
 Due to organization restrictions, I cannot share private source code from TYNYBAY projects.  
 Instead, I’m sharing **live demos with credentials** and detailed usage instructions.  
 These projects demonstrate my ability to design, build, and ship **AI-native applications** end-to-end.  
 
 ---
 
-## 1. 🎬 Video Gen (AI-powered faceless video generation)  
+## 1.  Video Gen (AI-powered faceless video generation)  
 **Demo Link:** [Video Gen](https://video-gen-fbcu9.ondigitalocean.app/)  
 **Credentials:**  
 - username: `john_doe`  
@@ -26,7 +25,7 @@ These projects demonstrate my ability to design, build, and ship **AI-native app
 
 ---
 
-## 2. 📊 Chat + Analytics (AI-driven CRM-style analytics assistant)  
+## 2.  Chat + Analytics (AI-driven CRM-style analytics assistant)  
 **Demo Link:** [Chat + Analytics](https://quess-corp-fe-7ao56.ondigitalocean.app/)  
 **Credentials:**  
 - username: `john_doe`  
@@ -47,7 +46,7 @@ These projects demonstrate my ability to design, build, and ship **AI-native app
 
 ---
 
-## 3. 🎤 Voice AI + Analytics Agent (multi-agent orchestration)  
+## 3.  Voice AI + Analytics Agent (multi-agent orchestration)  
 **Demo Link:** [Voice AI + Analytics](https://oclus-v3-frontend-686or.ondigitalocean.app/)  
 **Credentials:**  
 - username: `john_doe`  
