@@ -29,7 +29,7 @@ These projects demonstrate my ability to design, build, and ship **AI-native app
 **Demo Link:** [Chat + Analytics](https://quess-corp-fe-7ao56.ondigitalocean.app/)  
 **Credentials:**  
 - username: `john_doe`  
-- password: `Password$123$`  
+- password: `oclus$1234`  
 
 **How to Use:**  
 - Use sidebar to query (e.g., *“Show me revenue for last five years”*)  
@@ -50,7 +50,7 @@ These projects demonstrate my ability to design, build, and ship **AI-native app
 **Demo Link:** [Voice AI + Analytics](https://oclus-v3-frontend-686or.ondigitalocean.app/)  
 **Credentials:**  
 - username: `john_doe`  
-- password: `Password$123$`  
+- password: `oclus$1234` 
 
 **How to Use:**  
 1. Log in → click **Start Call**  
